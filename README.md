@@ -1,1 +1,1 @@
-# brain-computer-interfaces
+# Brain-Computer Interfaces
